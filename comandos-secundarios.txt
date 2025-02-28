@@ -1,1 +1,17 @@
-comandos secundarios
+comandos
+
+git init . -> inicia repositório
+ls -> lista arquivos
+cd -> muda diretório
+git rm -rf -> remove diretorio forçado
+git status -> mostra se a itens modificados
+git add (nome do arquivo / . para diretorios completo atual)
+git commit -m "adicione um comentário -> cria o commit adicionando arquivos modificados
+git checkout -b (nome da branch) cria outra branch
+git checkout (nome da branch) muda de branch
+git branch -> lista as branch criadas
+
+
+
+
+
