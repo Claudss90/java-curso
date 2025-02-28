@@ -10,6 +10,7 @@ git commit -m "adicione um comentário -> cria o commit adicionando arquivos mod
 git checkout -b (nome da branch) cria outra branch
 git checkout (nome da branch) muda de branch
 git branch -> lista as branch criadas
+git merge (nome da branch) -> junta as modificaççoes de outra branch
 
 
 
